@@ -6,6 +6,7 @@ public class Calculator {
 	
 	public String sayHello()
 	{
+		System.out.println(S);
 		return "Hello World";
 	}
 	public int addNos(int x, int y)
